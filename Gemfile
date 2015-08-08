@@ -34,6 +34,7 @@ end
 
 
 
+#foobar
 
 
 # Use ActiveModel has_secure_password
